@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1767278422 source:d:\programing tay\remidi\main.cpp
+	<iostream>
+	"stack.h"
+
+1767278460 d:\programing tay\remidi\stack.h
+
+1767278460 source:d:\programing tay\remidi\stack.cpp
+	<iostream>
+	"stack.h"
+
